@@ -375,6 +375,36 @@
         "h": 342
     },
     {
+        "id": "05ec82e119a7a212",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3aa43b3908b94a87",
+            "b85d976af7d63e03",
+            "ed69f1f0ae9fa808",
+            "f2b3c46d06a2a0ed",
+            "c09c9f79080483ec",
+            "944f70ed4fe97466",
+            "ea728a363f31df95",
+            "d858eda2320d91a7",
+            "d41d0d4dfa028a78",
+            "3dc7b852bdbe91d4"
+        ],
+        "x": 954,
+        "y": 2679,
+        "w": 1152,
+        "h": 322
+    },
+    {
         "id": "a7a8a9d2d3b7ea14",
         "type": "comment",
         "z": "2807eb5038af723b",
@@ -1452,8 +1482,8 @@
         "format": "{{msg.payload}}",
         "layout": "row-spread",
         "className": "",
-        "x": 1490,
-        "y": 3240,
+        "x": 1390,
+        "y": 3420,
         "wires": []
     },
     {
@@ -1471,10 +1501,11 @@
         "id": "3aa43b3908b94a87",
         "type": "comment",
         "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
         "name": "Set/Show Whatsapp API-KEY",
         "info": "",
-        "x": 1120,
-        "y": 2800,
+        "x": 1100,
+        "y": 2720,
         "wires": []
     },
     {
@@ -1495,7 +1526,7 @@
         "name": "Set/Show Timezone",
         "info": "",
         "x": 1070,
-        "y": 3080,
+        "y": 3540,
         "wires": []
     },
     {
@@ -1620,8 +1651,8 @@
         "correl": "",
         "expiry": "",
         "broker": "1eb4aa7d746828a2",
-        "x": 1600,
-        "y": 3160,
+        "x": 1380,
+        "y": 3060,
         "wires": []
     },
     {
@@ -1635,8 +1666,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1260,
-        "y": 3240,
+        "x": 1160,
+        "y": 3420,
         "wires": [
             [
                 "87df79dec94758f4"
@@ -1650,61 +1681,25 @@
         "name": "Set/Show Phone Number",
         "info": "",
         "x": 1070,
-        "y": 2860,
+        "y": 3320,
         "wires": []
-    },
-    {
-        "id": "8b19a2faaefc7337",
-        "type": "mqtt out",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/settings/api/set",
-        "qos": "",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "f2f86710f80408e7",
-        "x": 1590,
-        "y": 2680,
-        "wires": []
-    },
-    {
-        "id": "2bfdc333c12d4c69",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "func": "// API Key Lookup Query\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1180,
-        "y": 2760,
-        "wires": [
-            [
-                "b85d976af7d63e03"
-            ]
-        ]
     },
     {
         "id": "b85d976af7d63e03",
         "type": "ui_text",
         "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
         "group": "b1c00c1305e6ac21",
         "order": 3,
         "width": 0,
         "height": 0,
         "name": "",
         "label": "Current API Key",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
+        "format": "{{msg.payload.apikey}}",
+        "layout": "col-center",
         "className": "",
-        "x": 1460,
-        "y": 2760,
+        "x": 1940,
+        "y": 2920,
         "wires": []
     },
     {
@@ -1722,24 +1717,25 @@
         "expiry": "",
         "broker": "f2f86710f80408e7",
         "x": 1590,
-        "y": 2920,
+        "y": 3380,
         "wires": []
     },
     {
         "id": "ed69f1f0ae9fa808",
         "type": "ui_text",
         "z": "2807eb5038af723b",
-        "group": "4579d83e78dcf2ff",
+        "g": "05ec82e119a7a212",
+        "group": "b1c00c1305e6ac21",
         "order": 2,
         "width": 0,
         "height": 0,
         "name": "",
         "label": "Current Phone Number",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
+        "format": "{{msg.payload.phonenum}}",
+        "layout": "col-center",
         "className": "",
-        "x": 1510,
-        "y": 3000,
+        "x": 1970,
+        "y": 2960,
         "wires": []
     },
     {
@@ -1753,12 +1749,10 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1160,
-        "y": 3000,
+        "x": 1040,
+        "y": 3100,
         "wires": [
-            [
-                "ed69f1f0ae9fa808"
-            ]
+            []
         ]
     },
     {
@@ -1980,36 +1974,45 @@
         "id": "f2b3c46d06a2a0ed",
         "type": "ui_form",
         "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
         "name": "",
-        "label": "API Key",
+        "label": "WhatsApp Account Settings",
         "group": "b1c00c1305e6ac21",
         "order": 1,
         "width": 0,
         "height": 0,
         "options": [
             {
+                "label": "Set Phone Number",
+                "value": "phonenum",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
                 "label": "Set API Key",
                 "value": "key",
                 "type": "text",
-                "required": false,
+                "required": true,
                 "rows": null
             }
         ],
         "formValue": {
+            "phonenum": "",
             "key": ""
         },
         "payload": "",
         "submit": "submit",
         "cancel": "cancel",
-        "topic": "topic",
-        "topicType": "msg",
-        "splitLayout": "",
+        "topic": "",
+        "topicType": "str",
+        "splitLayout": false,
         "className": "",
-        "x": 1170,
-        "y": 2680,
+        "x": 1100,
+        "y": 2760,
         "wires": [
             [
-                "8b19a2faaefc7337"
+                "c09c9f79080483ec"
             ]
         ]
     },
@@ -2043,7 +2046,7 @@
         "splitLayout": "",
         "className": "",
         "x": 1170,
-        "y": 2920,
+        "y": 3380,
         "wires": [
             [
                 "a50cd8bff59e8d75"
@@ -2079,8 +2082,8 @@
         "topicType": "msg",
         "splitLayout": "",
         "className": "",
-        "x": 1270,
-        "y": 3160,
+        "x": 1050,
+        "y": 3060,
         "wires": [
             [
                 "652a0b26b343d22b"
@@ -2341,6 +2344,133 @@
         ]
     },
     {
+        "id": "c09c9f79080483ec",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "PreRequest",
+        "func": "if(msg.payload.key && msg.payload.phonenum) {\n    msg.method = \"PATCH\";\n    msg.url = `https://petificationblue.ddns.net:1880/user/wa/${msg.payload.key}/${msg.payload.phonenum}`;\n    node.send(msg);\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1230,
+        "y": 2800,
+        "wires": [
+            [
+                "944f70ed4fe97466"
+            ]
+        ]
+    },
+    {
+        "id": "944f70ed4fe97466",
+        "type": "http request",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "ReST/PATCH WhatsApp",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "bearer",
+        "senderr": false,
+        "x": 1350,
+        "y": 2840,
+        "wires": [
+            [
+                "d858eda2320d91a7"
+            ]
+        ]
+    },
+    {
+        "id": "ea728a363f31df95",
+        "type": "inject",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "Initial",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 1410,
+        "y": 2880,
+        "wires": [
+            [
+                "d858eda2320d91a7"
+            ]
+        ]
+    },
+    {
+        "id": "d858eda2320d91a7",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/wa\";\nnode.send(msg);",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1570,
+        "y": 2860,
+        "wires": [
+            [
+                "d41d0d4dfa028a78"
+            ]
+        ]
+    },
+    {
+        "id": "d41d0d4dfa028a78",
+        "type": "http request",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "ReST/GET WhatsApp",
+        "method": "use",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "a2a345f1c4a3679a",
+        "persist": false,
+        "proxy": "",
+        "authType": "bearer",
+        "senderr": false,
+        "x": 1680,
+        "y": 2900,
+        "wires": [
+            [
+                "3dc7b852bdbe91d4"
+            ]
+        ]
+    },
+    {
+        "id": "3dc7b852bdbe91d4",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "05ec82e119a7a212",
+        "name": "Parse",
+        "func": "msg.payload = JSON.parse(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1770,
+        "y": 2940,
+        "wires": [
+            [
+                "b85d976af7d63e03",
+                "ed69f1f0ae9fa808"
+            ]
+        ]
+    },
+    {
         "id": "f2f86710f80408e7",
         "type": "mqtt-broker",
         "name": "",
@@ -2454,20 +2584,9 @@
     {
         "id": "b1c00c1305e6ac21",
         "type": "ui_group",
-        "name": "API",
+        "name": "WhatsApp",
         "tab": "1d987565aa907a44",
         "order": 4,
-        "disp": true,
-        "width": "6",
-        "collapse": false,
-        "className": ""
-    },
-    {
-        "id": "4579d83e78dcf2ff",
-        "type": "ui_group",
-        "name": "Phone Number",
-        "tab": "1d987565aa907a44",
-        "order": 5,
         "disp": true,
         "width": "6",
         "collapse": false,
@@ -2479,6 +2598,17 @@
         "name": "Food Feeder Controller",
         "tab": "24ee9924ddace3c7",
         "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "4579d83e78dcf2ff",
+        "type": "ui_group",
+        "name": "Phone Number",
+        "tab": "1d987565aa907a44",
+        "order": 5,
         "disp": true,
         "width": "6",
         "collapse": false,
