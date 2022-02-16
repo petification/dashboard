@@ -510,8 +510,8 @@
             "586327e44ffa4ffe",
             "ca92f6cd88cb9b8b"
         ],
-        "x": 3714,
-        "y": 1099,
+        "x": 3594,
+        "y": 1239,
         "w": 612,
         "h": 122
     },
@@ -640,6 +640,114 @@
         "y": 1859,
         "w": 1172,
         "h": 462
+    },
+    {
+        "id": "97b7444c24969a61",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "90326f2d5348e448",
+            "19fd6e82dadd1282",
+            "ccd6ce4a5d9991e6",
+            "ef23052da338b320"
+        ],
+        "x": 3614,
+        "y": 779,
+        "w": 552,
+        "h": 202
+    },
+    {
+        "id": "b947df7e17470543",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3a072ccc2e6d7d23",
+            "62993187ae4b034e",
+            "60d7d8d0453f9fbb",
+            "4c35fb61563899fa",
+            "b62818cdcac224ce",
+            "9f5e20d5925c5aba"
+        ],
+        "x": 4214,
+        "y": 659,
+        "w": 652,
+        "h": 242
+    },
+    {
+        "id": "2e5dbb8d5d2b88f1",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "9fba4c58e4832285",
+            "66abe7a7c40f4767",
+            "fbf869e7dd7f2cc9",
+            "0a2584dcd3238481",
+            "a2b15791680a05d4",
+            "c5a49d7524b6315f",
+            "b9ef77fe4aa82872"
+        ],
+        "x": 4214,
+        "y": 919,
+        "w": 692,
+        "h": 282
+    },
+    {
+        "id": "8b61d9e21f61dbe1",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3460d0c7b385604a",
+            "4f8c02041511ef4f",
+            "04bfe2c13a6893a7",
+            "fd9681c5376095c3",
+            "fbef4ca7c629168b",
+            "97b7444c24969a61",
+            "b947df7e17470543",
+            "2e5dbb8d5d2b88f1"
+        ],
+        "x": 3588,
+        "y": 619,
+        "w": 1344,
+        "h": 608
     },
     {
         "id": "a7a8a9d2d3b7ea14",
@@ -961,8 +1069,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 4130,
-        "y": 500,
+        "x": 4290,
+        "y": 440,
         "wires": [
             []
         ]
@@ -980,8 +1088,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 3890,
-        "y": 360,
+        "x": 3900,
+        "y": 480,
         "wires": [
             [
                 "31158ce5cbb7ab6e"
@@ -1656,18 +1764,19 @@
         "g": "42c1fdbfda8baa20",
         "name": "Serve Food(By Button)",
         "info": "",
-        "x": 3840,
-        "y": 1140,
+        "x": 3720,
+        "y": 1280,
         "wires": []
     },
     {
         "id": "3460d0c7b385604a",
         "type": "comment",
         "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
         "name": "Set Food Serve Schedule",
         "info": "",
-        "x": 3850,
-        "y": 900,
+        "x": 3730,
+        "y": 660,
         "wires": []
     },
     {
@@ -1676,8 +1785,8 @@
         "z": "2807eb5038af723b",
         "name": "Food Feeder Controll",
         "info": "",
-        "x": 3840,
-        "y": 780,
+        "x": 3680,
+        "y": 600,
         "wires": []
     },
     {
@@ -1710,8 +1819,8 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 3860,
-        "y": 1180,
+        "x": 3740,
+        "y": 1320,
         "wires": [
             [
                 "586327e44ffa4ffe"
@@ -1722,17 +1831,18 @@
         "id": "90326f2d5348e448",
         "type": "ui_form",
         "z": "2807eb5038af723b",
+        "g": "97b7444c24969a61",
         "name": "",
         "label": "Automatic feeding time setting",
         "group": "ad04c2ea2866741d",
-        "order": 2,
+        "order": 5,
         "width": "6",
         "height": "6",
         "options": [
             {
-                "label": "Set Time HH:MM (00:00 ~ 23:59)",
+                "label": "Set Time",
                 "value": "time",
-                "type": "text",
+                "type": "time",
                 "required": true,
                 "rows": null
             },
@@ -1755,11 +1865,10 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 3870,
-        "y": 960,
+        "x": 3770,
+        "y": 860,
         "wires": [
             [
-                "7e6c98d8b0673a98",
                 "19fd6e82dadd1282"
             ]
         ]
@@ -1800,9 +1909,9 @@
         "g": "3a2feb40aae8042e",
         "order": 1,
         "group": "ad292859cba7b247",
-        "width": 0,
-        "height": 0,
-        "label": "",
+        "width": "6",
+        "height": "1",
+        "label": "Notification Status",
         "labelPlacement": "left",
         "labelAlignment": "left",
         "colorForValue": [
@@ -2369,7 +2478,7 @@
         "name": "",
         "label": "Current Timezone",
         "format": "{{msg.payload.timezone}}",
-        "layout": "row-spread",
+        "layout": "col-center",
         "className": "",
         "x": 1090,
         "y": 2280,
@@ -2598,10 +2707,10 @@
         "type": "ui_led",
         "z": "2807eb5038af723b",
         "g": "4b04d086ad5de92b",
-        "order": 4,
+        "order": 3,
         "group": "ae0ea2451b27327f",
-        "width": 0,
-        "height": 0,
+        "width": "1",
+        "height": "1",
         "label": "",
         "labelPlacement": "left",
         "labelAlignment": "left",
@@ -2636,9 +2745,9 @@
         "z": "2807eb5038af723b",
         "g": "4b04d086ad5de92b",
         "group": "ae0ea2451b27327f",
-        "order": 3,
-        "width": "6",
-        "height": "2",
+        "order": 2,
+        "width": "5",
+        "height": "1",
         "name": "",
         "label": "Device Status",
         "format": "{{msg.payload}}",
@@ -2679,7 +2788,7 @@
         "tooltip": "",
         "place": "Select device",
         "group": "ae0ea2451b27327f",
-        "order": 5,
+        "order": 1,
         "width": 0,
         "height": 0,
         "passthru": true,
@@ -3234,7 +3343,7 @@
         "tooltip": "",
         "place": "Select device",
         "group": "93952d2944d4170e",
-        "order": 5,
+        "order": 1,
         "width": 0,
         "height": 0,
         "passthru": true,
@@ -3402,10 +3511,10 @@
         "type": "ui_led",
         "z": "2807eb5038af723b",
         "g": "4b04d086ad5de92b",
-        "order": 4,
+        "order": 3,
         "group": "93952d2944d4170e",
-        "width": 0,
-        "height": 0,
+        "width": "1",
+        "height": "1",
         "label": "",
         "labelPlacement": "left",
         "labelAlignment": "left",
@@ -3440,9 +3549,9 @@
         "z": "2807eb5038af723b",
         "g": "4b04d086ad5de92b",
         "group": "93952d2944d4170e",
-        "order": 3,
-        "width": "6",
-        "height": "2",
+        "order": 2,
+        "width": "5",
+        "height": "1",
         "name": "",
         "label": "Device Status",
         "format": "{{msg.payload}}",
@@ -3975,8 +4084,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 4090,
-        "y": 1180,
+        "x": 3970,
+        "y": 1320,
         "wires": [
             [
                 "ca92f6cd88cb9b8b"
@@ -3998,57 +4107,76 @@
         "correl": "",
         "expiry": "",
         "broker": "f2f86710f80408e7",
-        "x": 4250,
-        "y": 1180,
+        "x": 4130,
+        "y": 1320,
         "wires": []
     },
     {
         "id": "3a072ccc2e6d7d23",
         "type": "ui_table",
         "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
         "group": "ad04c2ea2866741d",
-        "name": "",
-        "order": 2,
+        "name": "Schedule Status",
+        "order": 4,
         "width": 0,
         "height": 0,
-        "columns": [],
+        "columns": [
+            {
+                "field": "id",
+                "title": "ID",
+                "width": "10%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "time",
+                "title": "Time",
+                "width": "40%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            },
+            {
+                "field": "weight",
+                "title": "Serve Amount",
+                "width": "50%",
+                "align": "left",
+                "formatter": "plaintext",
+                "formatterParams": {
+                    "target": "_blank"
+                }
+            }
+        ],
         "outputs": 1,
         "cts": true,
-        "x": 4130,
-        "y": 760,
+        "x": 4600,
+        "y": 860,
         "wires": [
-            []
+            [
+                "66abe7a7c40f4767"
+            ]
         ]
-    },
-    {
-        "id": "7e6c98d8b0673a98",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 4130,
-        "y": 960,
-        "wires": []
     },
     {
         "id": "19fd6e82dadd1282",
         "type": "function",
         "z": "2807eb5038af723b",
+        "g": "97b7444c24969a61",
         "name": "PreRequest",
-        "func": "// [POST] /schedule/:time/:topic/:payload\n\nconst time = msg.payload.time;\nconst topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('feedMachine')}/action/feed`);\nconst payload = msg.payload.weight;\n\nmsg.method = \"POST\";\nmsg.url = `https://petificationblue.ddns.net:1880/schedule/${time}/${topic}/${payload}`;\nreturn msg;",
+        "func": "// [POST] /schedule/:time/:topic/:payload\n\nconst time = msg.payload.time.substring(11, 16);\nconst topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('feedMachine')}/action/feed`);\nconst payload = msg.payload.weight;\n\nmsg.method = \"POST\";\nmsg.url = `https://petificationblue.ddns.net:1880/schedule/${time}/${topic}/${payload}`;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 4090,
-        "y": 1000,
+        "x": 3910,
+        "y": 900,
         "wires": [
             [
                 "ccd6ce4a5d9991e6"
@@ -4059,27 +4187,31 @@
         "id": "ccd6ce4a5d9991e6",
         "type": "link call",
         "z": "2807eb5038af723b",
+        "g": "97b7444c24969a61",
         "name": "ReST/POST Schedule",
         "links": [
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 4300,
-        "y": 1000,
+        "x": 4040,
+        "y": 940,
         "wires": [
-            []
+            [
+                "62993187ae4b034e"
+            ]
         ]
     },
     {
         "id": "4f8c02041511ef4f",
         "type": "link in",
         "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
         "name": "Feed Machine Selection Event Listener",
         "links": [
             "f3801119dcfd5901"
         ],
-        "x": 3955,
-        "y": 820,
+        "x": 4155,
+        "y": 700,
         "wires": [
             [
                 "62993187ae4b034e"
@@ -4090,16 +4222,18 @@
         "id": "04bfe2c13a6893a7",
         "type": "comment",
         "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
         "name": "Feed Machine Selection Event Listener",
         "info": "",
-        "x": 3790,
-        "y": 820,
+        "x": 3990,
+        "y": 700,
         "wires": []
     },
     {
         "id": "62993187ae4b034e",
         "type": "function",
         "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
         "name": "PreRequest",
         "func": "const topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('feedMachine')}/action/feed`);\n\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/schedules/${topic}`;\n\nreturn msg;",
         "outputs": 1,
@@ -4107,8 +4241,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3990,
-        "y": 860,
+        "x": 4310,
+        "y": 740,
         "wires": [
             [
                 "60d7d8d0453f9fbb"
@@ -4119,34 +4253,19 @@
         "id": "60d7d8d0453f9fbb",
         "type": "link call",
         "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
         "name": "ReST/GET Schedule",
         "links": [
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 4100,
-        "y": 900,
+        "x": 4420,
+        "y": 780,
         "wires": [
             [
-                "f9a475a6424e4513"
+                "4c35fb61563899fa"
             ]
         ]
-    },
-    {
-        "id": "f9a475a6424e4513",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 4310,
-        "y": 900,
-        "wires": []
     },
     {
         "id": "72a4115908d159dd",
@@ -4247,7 +4366,7 @@
         "width": 0,
         "height": 0,
         "passthru": false,
-        "label": "button",
+        "label": "submit",
         "tooltip": "",
         "color": "",
         "bgcolor": "",
@@ -4266,11 +4385,237 @@
         ]
     },
     {
+        "id": "4c35fb61563899fa",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
+        "name": "Formatter",
+        "func": "const res = [];\n\nfor(let schedule of msg.payload) {\n    res.push({\n        id: schedule.id,\n        time: schedule.time,\n        weight: schedule.payload,\n    });\n}\n\nmsg.payload = res;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4520,
+        "y": 820,
+        "wires": [
+            [
+                "3a072ccc2e6d7d23"
+            ]
+        ]
+    },
+    {
+        "id": "9fba4c58e4832285",
+        "type": "ui_toast",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "position": "dialog",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 1,
+        "ok": "OK",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "",
+        "name": "",
+        "x": 4390,
+        "y": 1040,
+        "wires": [
+            [
+                "fbf869e7dd7f2cc9"
+            ]
+        ]
+    },
+    {
+        "id": "66abe7a7c40f4767",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "SaveTemp",
+        "func": "flow.set('temp', msg.payload.id);\nmsg.topic = \"Delete Confirmation\";\nmsg.payload = \"Do you really want to delete this schedule?\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4310,
+        "y": 1000,
+        "wires": [
+            [
+                "9fba4c58e4832285"
+            ]
+        ]
+    },
+    {
+        "id": "fbf869e7dd7f2cc9",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "FilterOK",
+        "func": "if(msg.payload === \"OK\") {\n    msg.method = \"DELETE\";\n    msg.url = `https://petificationblue.ddns.net:1880/schedule/${flow.get('temp')}`;\n    return msg;\n}\n\nreturn null;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4460,
+        "y": 1080,
+        "wires": [
+            [
+                "0a2584dcd3238481"
+            ]
+        ]
+    },
+    {
+        "id": "0a2584dcd3238481",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "ReST/DELETE Schedule",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 4570,
+        "y": 1120,
+        "wires": [
+            [
+                "a2b15791680a05d4"
+            ]
+        ]
+    },
+    {
+        "id": "a2b15791680a05d4",
+        "type": "link out",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "Schedule Delete Event Out",
+        "mode": "link",
+        "links": [
+            "fd9681c5376095c3"
+        ],
+        "x": 4635,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "fd9681c5376095c3",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
+        "name": "Schedule Delete Event Listener",
+        "links": [
+            "a2b15791680a05d4"
+        ],
+        "x": 4155,
+        "y": 740,
+        "wires": [
+            [
+                "62993187ae4b034e"
+            ]
+        ]
+    },
+    {
+        "id": "fbef4ca7c629168b",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "8b61d9e21f61dbe1",
+        "name": "Schedule Delete Event Listener",
+        "info": "",
+        "x": 4010,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "c5a49d7524b6315f",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "Schedule Delete Event Out",
+        "info": "",
+        "x": 4770,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "ef23052da338b320",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "97b7444c24969a61",
+        "name": "Add New Schedule",
+        "info": "",
+        "x": 3730,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "b62818cdcac224ce",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
+        "name": "Show Schedule Table",
+        "info": "",
+        "x": 4340,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "b9ef77fe4aa82872",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "2e5dbb8d5d2b88f1",
+        "name": "Click to Delete Schedule",
+        "info": "",
+        "x": 4350,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "9f5e20d5925c5aba",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "b947df7e17470543",
+        "group": "ad04c2ea2866741d",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Click Table Row to Delete Schedule",
+        "format": "",
+        "layout": "row-spread",
+        "className": "",
+        "x": 4700,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "5ddce720755e9962",
+        "type": "ui_spacer",
+        "z": "2807eb5038af723b",
+        "name": "spacer",
+        "group": "b9bec03efffc885d",
+        "order": 3,
+        "width": "6",
+        "height": "1"
+    },
+    {
+        "id": "9e9ce08837fa5952",
+        "type": "ui_spacer",
+        "z": "2807eb5038af723b",
+        "name": "spacer",
+        "group": "ad04c2ea2866741d",
+        "order": 2,
+        "width": "6",
+        "height": "1"
+    },
+    {
         "id": "35e893befae8d648",
         "type": "ui_group",
         "name": "Feed Machine Statistics",
         "tab": "24ee9924ddace3c7",
-        "order": 3,
+        "order": 2,
         "disp": true,
         "width": "6",
         "collapse": false,
@@ -4346,7 +4691,7 @@
         "type": "ui_group",
         "name": "Serve Food",
         "tab": "24ee9924ddace3c7",
-        "order": 2,
+        "order": 3,
         "disp": true,
         "width": "6",
         "collapse": false,
@@ -4412,7 +4757,7 @@
         "type": "ui_group",
         "name": "Device Info",
         "tab": "24ee9924ddace3c7",
-        "order": 3,
+        "order": 1,
         "disp": true,
         "width": "6",
         "collapse": false,
@@ -4423,6 +4768,7 @@
         "type": "ui_tab",
         "name": "Feed Machine",
         "icon": "pets",
+        "order": 1,
         "disabled": false,
         "hidden": false
     },
@@ -4431,6 +4777,7 @@
         "type": "ui_tab",
         "name": "Settings",
         "icon": "settings",
+        "order": 3,
         "disabled": false,
         "hidden": false
     },
@@ -4439,6 +4786,7 @@
         "type": "ui_tab",
         "name": "Water Supplier",
         "icon": "pets",
+        "order": 2,
         "disabled": false,
         "hidden": false
     }
