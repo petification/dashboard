@@ -87,72 +87,6 @@
         "h": 508
     },
     {
-        "id": "92ba0c02fad53117",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "945f68680f86a283",
-            "efd8fb56cdf7bb92",
-            "40ce3c4e4def2b5c",
-            "242066ee3e34da21",
-            "6ba7415a5c7e9de7",
-            "dbd87ac1da2ff266",
-            "b5bf835afbb8011b",
-            "31158ce5cbb7ab6e",
-            "40dc2fb9fd1ddd84",
-            "2fd65db9997e0687",
-            "3dede06d085908f5",
-            "ae7580648012c36c",
-            "f30c18c67a39581f"
-        ],
-        "x": 2164,
-        "y": 1639,
-        "w": 542,
-        "h": 682
-    },
-    {
-        "id": "1472bf8acbf251ca",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "8381ca0aaa2cafa4",
-            "1e85f3cdebd559c9",
-            "e4addcf160cc3363",
-            "315ce6c9ba4d25b4",
-            "e8cb69dcf78297a1",
-            "8828acc969c8a34e",
-            "63044a5557975e46",
-            "fe37133d9ed750c3",
-            "73352e99e5f755bf",
-            "01f2def426cf0844",
-            "d6f8102f816e7f80",
-            "8b03a6b2f1141366",
-            "d53ceb7dacc4ce43"
-        ],
-        "x": 34,
-        "y": 599,
-        "w": 1012,
-        "h": 342
-    },
-    {
         "id": "2bc9c3833257da08",
         "type": "group",
         "z": "2807eb5038af723b",
@@ -246,34 +180,6 @@
         "h": 82
     },
     {
-        "id": "bde0f09257fb55c7",
-        "type": "group",
-        "z": "2807eb5038af723b",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "12dfd1bb22fe8a8a",
-            "3460d0c7b385604a",
-            "b3858ded798f3798",
-            "3ddb3c5806980d4a",
-            "83d3bc6b8ba9d668",
-            "6d3e3465515e2597",
-            "90326f2d5348e448",
-            "50a0413d23a3220f"
-        ],
-        "x": 1634,
-        "y": 1959,
-        "w": 802,
-        "h": 542
-    },
-    {
         "id": "3a2feb40aae8042e",
         "type": "group",
         "z": "2807eb5038af723b",
@@ -364,7 +270,7 @@
         "h": 282
     },
     {
-        "id": "603ebd9c67ab0d3c",
+        "id": "984a3b613f2b4abc",
         "type": "group",
         "z": "2807eb5038af723b",
         "style": {
@@ -377,20 +283,260 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "898ae72159457af1",
-            "e8bfea13b216a5d4",
-            "8d703590b22f14ba",
-            "140d5f4901347771",
-            "c455f4853c45958b",
-            "f2b4c1c73a6b3a6c",
-            "18da557133285e3a",
-            "04729c8adab20efb",
-            "c77fd1a058fde16f"
+            "1e2791efad22a49d",
+            "e4975558ee3868d0",
+            "3547605771d61b14",
+            "e7b02ce801986909",
+            "f93951d199f6561c",
+            "64eb80a6f67da9c4",
+            "4aa414140e06236c",
+            "5eec2ac1e0cdfe7d",
+            "d48f225f687e0af3",
+            "3aa2a056c41f1ebb"
+        ],
+        "x": 1254,
+        "y": 639,
+        "w": 992,
+        "h": 362
+    },
+    {
+        "id": "ac174e7784e809ce",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8381ca0aaa2cafa4",
+            "1e85f3cdebd559c9",
+            "e4addcf160cc3363",
+            "315ce6c9ba4d25b4",
+            "e8cb69dcf78297a1",
+            "8828acc969c8a34e",
+            "73352e99e5f755bf",
+            "01f2def426cf0844",
+            "d6f8102f816e7f80",
+            "8b03a6b2f1141366",
+            "d53ceb7dacc4ce43",
+            "186c59b9d088a899",
+            "c8acbebc1b799e6d"
         ],
         "x": 34,
-        "y": 1859,
-        "w": 932,
-        "h": 302
+        "y": 599,
+        "w": 1052,
+        "h": 342
+    },
+    {
+        "id": "2c4a0504fadaa3d6",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "01cebc855c52442a",
+            "e3c76292e5d759dc",
+            "fe5cd6ea4f60ed48",
+            "d73b46a160cf656b",
+            "eac250045db34d86",
+            "fbad5870331e550d",
+            "5ff5c950f427e565",
+            "5920a648af435001",
+            "57d1b5a6d939c419",
+            "9fb84f2411852ded"
+        ],
+        "x": 1254,
+        "y": 1479,
+        "w": 1032,
+        "h": 242
+    },
+    {
+        "id": "f42877e73b463e5a",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a684c6dc311cf248",
+            "55d08b4be0e35315",
+            "ee78781ad376b48c",
+            "c9f5951acd620585",
+            "5033acfb7a40ff58",
+            "fbac775c76bc33c3",
+            "fdd855824429cf5d",
+            "fa4212ec273cbbd9",
+            "f3801119dcfd5901",
+            "b711e183002bde61"
+        ],
+        "x": 2454,
+        "y": 639,
+        "w": 992,
+        "h": 362
+    },
+    {
+        "id": "4b04d086ad5de92b",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7e74b56c67122fd2",
+            "fd6e032637506e5e",
+            "df253a0b3fe05084",
+            "48336dd51d845429",
+            "a24de4eeb2510f89",
+            "95ccd9f3332e4585",
+            "714efe09bcdb14c5",
+            "12402ffb8a74c09b",
+            "4a40bec7c63ea06c",
+            "732064e323a365d5",
+            "49867a8f9fcf6de1",
+            "990cf4a3e6b73f38",
+            "f3e912f35040ce3e",
+            "fdb462b8da6f3143",
+            "9e5ff126908e18bd",
+            "69562e4061824b1b",
+            "714957262501b7e1",
+            "78fd0982343ef873",
+            "65031937e0b0efd7"
+        ],
+        "x": 1254,
+        "y": 1019,
+        "w": 1132,
+        "h": 442
+    },
+    {
+        "id": "70dd97b42cce4e90",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "fad318efa3bf8370",
+            "372ff5131e0a9d21",
+            "ebf0719a6b2852db",
+            "30f97fe45c4f4d29",
+            "ddb937c60cd1dd16",
+            "fe29708ada8ca4c1",
+            "bb0c539d7e2eca54",
+            "b4921c8a73239b9f",
+            "f6cc12bd9ba0f418",
+            "98124579dd5b1f63"
+        ],
+        "x": 2454,
+        "y": 1019,
+        "w": 1072,
+        "h": 242
+    },
+    {
+        "id": "e81927e59114b6b3",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "bde2e3d8333824a0",
+            "899d32f86ed28a3c",
+            "92f189a434d251ca",
+            "908a8e22a62388f5",
+            "4271846e7bd991fd",
+            "c20f61e0a8ca70bc",
+            "3578deeb95fe02fc",
+            "c0df4cd1d7e78050",
+            "d9b266a200b9063f",
+            "4f09ce5b685d23c6"
+        ],
+        "x": 2454,
+        "y": 1279,
+        "w": 1092,
+        "h": 242
+    },
+    {
+        "id": "42c1fdbfda8baa20",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "12dfd1bb22fe8a8a",
+            "6d3e3465515e2597",
+            "586327e44ffa4ffe",
+            "ca92f6cd88cb9b8b"
+        ],
+        "x": 3714,
+        "y": 1099,
+        "w": 612,
+        "h": 122
+    },
+    {
+        "id": "65031937e0b0efd7",
+        "type": "group",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "8fb07fcb5260983e",
+            "cefedacc1a9a60fe"
+        ],
+        "x": 1454,
+        "y": 1219,
+        "w": 382,
+        "h": 82
     },
     {
         "id": "49ec07d5a9500807",
@@ -463,7 +609,7 @@
         "h": 142
     },
     {
-        "id": "984a3b613f2b4abc",
+        "id": "67a563a3d4b27dd2",
         "type": "group",
         "z": "2807eb5038af723b",
         "style": {
@@ -476,21 +622,24 @@
             "color": "#a4a4a4"
         },
         "nodes": [
-            "1e2791efad22a49d",
-            "e4975558ee3868d0",
-            "3547605771d61b14",
-            "e7b02ce801986909",
-            "f93951d199f6561c",
-            "64eb80a6f67da9c4",
-            "4aa414140e06236c",
-            "5eec2ac1e0cdfe7d",
-            "d48f225f687e0af3",
-            "3aa2a056c41f1ebb"
+            "898ae72159457af1",
+            "e8bfea13b216a5d4",
+            "140d5f4901347771",
+            "c455f4853c45958b",
+            "f2b4c1c73a6b3a6c",
+            "18da557133285e3a",
+            "04729c8adab20efb",
+            "c77fd1a058fde16f",
+            "72a4115908d159dd",
+            "03adfc778873b29d",
+            "cc8880d237dba1de",
+            "5072b85543a1f166",
+            "ff4f10c92e13dfe1"
         ],
-        "x": 1134,
-        "y": 639,
-        "w": 932,
-        "h": 362
+        "x": 34,
+        "y": 1859,
+        "w": 1172,
+        "h": 462
     },
     {
         "id": "a7a8a9d2d3b7ea14",
@@ -746,121 +895,19 @@
         "wires": []
     },
     {
-        "id": "945f68680f86a283",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "Food Feeder",
-        "info": "",
-        "x": 2270,
-        "y": 1680,
-        "wires": []
-    },
-    {
-        "id": "efd8fb56cdf7bb92",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "Show Food Remaining(Container)",
-        "info": "",
-        "x": 2340,
-        "y": 1760,
-        "wires": []
-    },
-    {
-        "id": "40ce3c4e4def2b5c",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "Show Food Remaining(Bowl)",
-        "info": "",
-        "x": 2320,
-        "y": 1900,
-        "wires": []
-    },
-    {
         "id": "242066ee3e34da21",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
         "name": "Show Food Consumption",
         "info": "",
-        "x": 2310,
-        "y": 2040,
-        "wires": []
-    },
-    {
-        "id": "6ba7415a5c7e9de7",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "Show Food-Feeder Status",
-        "info": "",
-        "x": 2310,
-        "y": 2180,
-        "wires": []
-    },
-    {
-        "id": "dbd87ac1da2ff266",
-        "type": "ui_gauge",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "",
-        "group": "35e893befae8d648",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "gtype": "gage",
-        "title": "Container",
-        "label": "units",
-        "format": "{{value}} g",
-        "min": 0,
-        "max": "150",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "50",
-        "seg2": "100",
-        "className": "",
-        "x": 2620,
-        "y": 1820,
-        "wires": []
-    },
-    {
-        "id": "b5bf835afbb8011b",
-        "type": "ui_gauge",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "",
-        "group": "35e893befae8d648",
-        "order": 2,
-        "width": 0,
-        "height": 0,
-        "gtype": "gage",
-        "title": "Bowl",
-        "label": "units",
-        "format": "{{value}} g",
-        "min": 0,
-        "max": "150",
-        "colors": [
-            "#00b500",
-            "#e6e600",
-            "#ca3838"
-        ],
-        "seg1": "50",
-        "seg2": "100",
-        "className": "",
-        "x": 2630,
-        "y": 1960,
+        "x": 3850,
+        "y": 440,
         "wires": []
     },
     {
         "id": "31158ce5cbb7ab6e",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
         "name": "",
         "func": "//Calculate food consumption logic\n\n\n\nreturn msg;",
         "outputs": 1,
@@ -868,8 +915,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2580,
-        "y": 2040,
+        "x": 4120,
+        "y": 440,
         "wires": [
             [
                 "40dc2fb9fd1ddd84"
@@ -880,7 +927,6 @@
         "id": "40dc2fb9fd1ddd84",
         "type": "ui_chart",
         "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
         "name": "",
         "group": "35e893befae8d648",
         "order": 3,
@@ -915,89 +961,16 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 2590,
-        "y": 2100,
+        "x": 4130,
+        "y": 500,
         "wires": [
             []
-        ]
-    },
-    {
-        "id": "2fd65db9997e0687",
-        "type": "ui_text",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "group": "35e893befae8d648",
-        "order": 4,
-        "width": "5",
-        "height": "2",
-        "name": "",
-        "label": "Device Health Check",
-        "format": "{{msg.payload}}",
-        "layout": "row-spread",
-        "className": "",
-        "x": 2580,
-        "y": 2240,
-        "wires": []
-    },
-    {
-        "id": "3dede06d085908f5",
-        "type": "ui_led",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "order": 5,
-        "group": "35e893befae8d648",
-        "width": 0,
-        "height": 0,
-        "label": "",
-        "labelPlacement": "left",
-        "labelAlignment": "left",
-        "colorForValue": [
-            {
-                "color": "#ff0000",
-                "value": "Off",
-                "valueType": "str"
-            },
-            {
-                "color": "#008000",
-                "value": "On",
-                "valueType": "str"
-            }
-        ],
-        "allowColorForValueInMessage": false,
-        "shape": "circle",
-        "showGlow": true,
-        "name": "",
-        "x": 2530,
-        "y": 2280,
-        "wires": []
-    },
-    {
-        "id": "ae7580648012c36c",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
-        "name": "",
-        "topic": "users/petification/food-feeder/scale/container",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 2370,
-        "y": 1820,
-        "wires": [
-            [
-                "dbd87ac1da2ff266"
-            ]
         ]
     },
     {
         "id": "f30c18c67a39581f",
         "type": "mqtt in",
         "z": "2807eb5038af723b",
-        "g": "92ba0c02fad53117",
         "name": "",
         "topic": "users/petification/food-feeder/scale/bowl",
         "qos": "1",
@@ -1007,11 +980,10 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 2350,
-        "y": 1960,
+        "x": 3890,
+        "y": 360,
         "wires": [
             [
-                "b5bf835afbb8011b",
                 "31158ce5cbb7ab6e"
             ]
         ]
@@ -1030,7 +1002,7 @@
         "id": "8381ca0aaa2cafa4",
         "type": "ui_form",
         "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
+        "g": "ac174e7784e809ce",
         "name": "",
         "label": "User Token Setting",
         "group": "a9de1389895e63c0",
@@ -1057,7 +1029,7 @@
         "splitLayout": "",
         "className": "",
         "x": 150,
-        "y": 720,
+        "y": 680,
         "wires": [
             [
                 "e8cb69dcf78297a1"
@@ -1068,7 +1040,7 @@
         "id": "1e85f3cdebd559c9",
         "type": "ui_text",
         "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
+        "g": "ac174e7784e809ce",
         "group": "a9de1389895e63c0",
         "order": 1,
         "width": 0,
@@ -1078,15 +1050,15 @@
         "format": "{{msg.payload.token}}",
         "layout": "row-spread",
         "className": "",
-        "x": 830,
-        "y": 780,
+        "x": 870,
+        "y": 800,
         "wires": []
     },
     {
         "id": "e4addcf160cc3363",
         "type": "ui_text",
         "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
+        "g": "ac174e7784e809ce",
         "group": "a9de1389895e63c0",
         "order": 2,
         "width": 0,
@@ -1096,15 +1068,15 @@
         "format": "{{msg.payload.uname}}",
         "layout": "row-spread",
         "className": "",
-        "x": 840,
-        "y": 840,
+        "x": 880,
+        "y": 860,
         "wires": []
     },
     {
         "id": "315ce6c9ba4d25b4",
         "type": "inject",
         "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
+        "g": "ac174e7784e809ce",
         "name": "Initial",
         "props": [],
         "repeat": "",
@@ -1113,7 +1085,7 @@
         "onceDelay": 0.1,
         "topic": "",
         "x": 270,
-        "y": 800,
+        "y": 760,
         "wires": [
             [
                 "8828acc969c8a34e"
@@ -1124,7 +1096,7 @@
         "id": "e8cb69dcf78297a1",
         "type": "change",
         "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
+        "g": "ac174e7784e809ce",
         "name": "",
         "rules": [
             {
@@ -1141,7 +1113,7 @@
         "to": "",
         "reg": false,
         "x": 240,
-        "y": 760,
+        "y": 720,
         "wires": [
             [
                 "8828acc969c8a34e"
@@ -1152,7 +1124,7 @@
         "id": "8828acc969c8a34e",
         "type": "switch",
         "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
+        "g": "ac174e7784e809ce",
         "name": "",
         "property": "token",
         "propertyType": "flow",
@@ -1168,10 +1140,10 @@
         "repair": false,
         "outputs": 2,
         "x": 410,
-        "y": 780,
+        "y": 760,
         "wires": [
             [
-                "63044a5557975e46"
+                "186c59b9d088a899"
             ],
             [
                 "01f2def426cf0844"
@@ -1179,53 +1151,18 @@
         ]
     },
     {
-        "id": "63044a5557975e46",
-        "type": "function",
-        "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
-        "name": "DB/SELECT Username",
-        "func": "msg.topic = \"SELECT uname\" +\n            \" FROM userData\" +\n            \" WHERE token = '\" + flow.get('token') + \"';\";\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 650,
-        "y": 680,
-        "wires": [
-            [
-                "fe37133d9ed750c3"
-            ]
-        ]
-    },
-    {
-        "id": "fe37133d9ed750c3",
-        "type": "mysql",
-        "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
-        "mydb": "1654a6d7a221376c",
-        "name": "",
-        "x": 600,
-        "y": 740,
-        "wires": [
-            [
-                "73352e99e5f755bf"
-            ]
-        ]
-    },
-    {
         "id": "73352e99e5f755bf",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
-        "name": "",
-        "func": "if(msg.payload.length === 1) {\n    msg.payload = {\n        uname: msg.payload[0].uname,\n        token: flow.get('token'),\n    };\n} else {\n    msg.payload = {\n        uname: \"No Username\",\n        token: \"No Token\",\n    }\n}\n\nreturn msg;",
+        "g": "ac174e7784e809ce",
+        "name": "Refinement",
+        "func": "if(msg.payload.uname) {\n    flow.set('uname', msg.payload.uname);\n    \n    msg.payload = {\n        uname: msg.payload.uname,\n        token: flow.get('token'),\n    };\n} else {\n    msg.payload = {\n        uname: \"No Username\",\n        token: \"No Token\",\n    }\n}\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 600,
+        "x": 610,
         "y": 800,
         "wires": [
             [
@@ -1239,15 +1176,15 @@
         "id": "01f2def426cf0844",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
-        "name": "",
+        "g": "ac174e7784e809ce",
+        "name": "HandleNoToken",
         "func": "msg.payload = {\n    uname: \"No Username\",\n    token: \"No Token\",\n}\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 600,
+        "x": 620,
         "y": 860,
         "wires": [
             [
@@ -1261,7 +1198,7 @@
         "id": "d6f8102f816e7f80",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
+        "g": "ac174e7784e809ce",
         "name": "User Info",
         "info": "",
         "x": 120,
@@ -1272,17 +1209,18 @@
         "id": "8b03a6b2f1141366",
         "type": "link out",
         "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
+        "g": "ac174e7784e809ce",
         "name": "Token Change Event Out",
         "mode": "link",
         "links": [
             "04729c8adab20efb",
             "2028660bb8ae853a",
             "88af194d72d5c519",
+            "e4975558ee3868d0",
             "f53e285fc6597c27",
-            "e4975558ee3868d0"
+            "55d08b4be0e35315"
         ],
-        "x": 775,
+        "x": 815,
         "y": 900,
         "wires": []
     },
@@ -1290,10 +1228,10 @@
         "id": "d53ceb7dacc4ce43",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "1472bf8acbf251ca",
+        "g": "ac174e7784e809ce",
         "name": "Token Change Event Out",
         "info": "",
-        "x": 910,
+        "x": 950,
         "y": 900,
         "wires": []
     },
@@ -1715,77 +1653,38 @@
         "id": "12dfd1bb22fe8a8a",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "bde0f09257fb55c7",
+        "g": "42c1fdbfda8baa20",
         "name": "Serve Food(By Button)",
         "info": "",
-        "x": 1760,
-        "y": 2320,
+        "x": 3840,
+        "y": 1140,
         "wires": []
     },
     {
         "id": "3460d0c7b385604a",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "bde0f09257fb55c7",
         "name": "Set Food Serve Schedule",
         "info": "",
-        "x": 1770,
-        "y": 2120,
+        "x": 3850,
+        "y": 900,
         "wires": []
     },
     {
         "id": "b3858ded798f3798",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "bde0f09257fb55c7",
         "name": "Food Feeder Controll",
         "info": "",
-        "x": 1760,
-        "y": 2000,
-        "wires": []
-    },
-    {
-        "id": "3ddb3c5806980d4a",
-        "type": "mqtt out",
-        "z": "2807eb5038af723b",
-        "g": "bde0f09257fb55c7",
-        "name": "",
-        "topic": "users/petification/food-feeder/action/quantity",
-        "qos": "1",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "f2f86710f80408e7",
-        "x": 2230,
-        "y": 2400,
-        "wires": []
-    },
-    {
-        "id": "83d3bc6b8ba9d668",
-        "type": "debug",
-        "z": "2807eb5038af723b",
-        "g": "bde0f09257fb55c7",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "payload",
-        "targetType": "msg",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 2010,
-        "y": 2460,
+        "x": 3840,
+        "y": 780,
         "wires": []
     },
     {
         "id": "6d3e3465515e2597",
         "type": "ui_form",
         "z": "2807eb5038af723b",
-        "g": "bde0f09257fb55c7",
+        "g": "42c1fdbfda8baa20",
         "name": "",
         "label": "User Control Part to Feeding",
         "group": "ad04c2ea2866741d",
@@ -1794,15 +1693,15 @@
         "height": "6",
         "options": [
             {
-                "label": "Set Food Quantity (g)",
-                "value": "quantity",
+                "label": "Set Food Weight (g)",
+                "value": "weight",
                 "type": "number",
-                "required": false,
+                "required": true,
                 "rows": null
             }
         ],
         "formValue": {
-            "quantity": ""
+            "weight": ""
         },
         "payload": "",
         "submit": "submit",
@@ -1811,12 +1710,11 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 1780,
-        "y": 2400,
+        "x": 3860,
+        "y": 1180,
         "wires": [
             [
-                "3ddb3c5806980d4a",
-                "83d3bc6b8ba9d668"
+                "586327e44ffa4ffe"
             ]
         ]
     },
@@ -1824,7 +1722,6 @@
         "id": "90326f2d5348e448",
         "type": "ui_form",
         "z": "2807eb5038af723b",
-        "g": "bde0f09257fb55c7",
         "name": "",
         "label": "Automatic feeding time setting",
         "group": "ad04c2ea2866741d",
@@ -1836,12 +1733,20 @@
                 "label": "Set Time HH:MM (00:00 ~ 23:59)",
                 "value": "time",
                 "type": "text",
-                "required": false,
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Serving Amount (g)",
+                "value": "weight",
+                "type": "number",
+                "required": true,
                 "rows": null
             }
         ],
         "formValue": {
-            "time": ""
+            "time": "",
+            "weight": ""
         },
         "payload": "",
         "submit": "submit",
@@ -1850,32 +1755,14 @@
         "topicType": "str",
         "splitLayout": "",
         "className": "",
-        "x": 1790,
-        "y": 2180,
+        "x": 3870,
+        "y": 960,
         "wires": [
             [
-                "50a0413d23a3220f"
+                "7e6c98d8b0673a98",
+                "19fd6e82dadd1282"
             ]
         ]
-    },
-    {
-        "id": "50a0413d23a3220f",
-        "type": "mqtt out",
-        "z": "2807eb5038af723b",
-        "g": "bde0f09257fb55c7",
-        "name": "",
-        "topic": "users/petification/food-feeder/action/time",
-        "qos": "",
-        "retain": "",
-        "respTopic": "",
-        "contentType": "",
-        "userProps": "",
-        "correl": "",
-        "expiry": "",
-        "broker": "f2f86710f80408e7",
-        "x": 2160,
-        "y": 2180,
-        "wires": []
     },
     {
         "id": "4da2f82dca9d7280",
@@ -2474,7 +2361,7 @@
         "id": "898ae72159457af1",
         "type": "ui_text",
         "z": "2807eb5038af723b",
-        "g": "603ebd9c67ab0d3c",
+        "g": "67a563a3d4b27dd2",
         "group": "c166754c88d73fc6",
         "order": 2,
         "width": 0,
@@ -2484,15 +2371,15 @@
         "format": "{{msg.payload.timezone}}",
         "layout": "row-spread",
         "className": "",
-        "x": 850,
-        "y": 2120,
+        "x": 1090,
+        "y": 2280,
         "wires": []
     },
     {
         "id": "e8bfea13b216a5d4",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "603ebd9c67ab0d3c",
+        "g": "67a563a3d4b27dd2",
         "name": "Set/Show Timezone",
         "info": "",
         "x": 150,
@@ -2500,57 +2387,19 @@
         "wires": []
     },
     {
-        "id": "8d703590b22f14ba",
-        "type": "ui_form",
-        "z": "2807eb5038af723b",
-        "g": "603ebd9c67ab0d3c",
-        "name": "",
-        "label": "Time Zone (ex. \"-05:00\")",
-        "group": "c166754c88d73fc6",
-        "order": 1,
-        "width": 0,
-        "height": 0,
-        "options": [
-            {
-                "label": "Set Timezone",
-                "value": "timezone",
-                "type": "text",
-                "required": true,
-                "rows": null
-            }
-        ],
-        "formValue": {
-            "timezone": ""
-        },
-        "payload": "",
-        "submit": "submit",
-        "cancel": "cancel",
-        "topic": "",
-        "topicType": "str",
-        "splitLayout": "",
-        "className": "",
-        "x": 170,
-        "y": 1940,
-        "wires": [
-            [
-                "140d5f4901347771"
-            ]
-        ]
-    },
-    {
         "id": "140d5f4901347771",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "603ebd9c67ab0d3c",
+        "g": "67a563a3d4b27dd2",
         "name": "PreRequest",
-        "func": "if(msg.payload.timezone) {\n    msg.method = \"PATCH\";\n    msg.url = `https://petificationblue.ddns.net:1880/user/timezone/${msg.payload.timezone}`;\n    node.send(msg);\n}",
+        "func": "const tz = encodeURIComponent(msg.payload);\nmsg.method = \"PATCH\";\nmsg.url = `https://petificationblue.ddns.net:1880/user/timezone/${tz}`;\nnode.send(msg);",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 270,
-        "y": 1980,
+        "x": 510,
+        "y": 2140,
         "wires": [
             [
                 "f2b4c1c73a6b3a6c"
@@ -2561,7 +2410,7 @@
         "id": "c455f4853c45958b",
         "type": "function",
         "z": "2807eb5038af723b",
-        "g": "603ebd9c67ab0d3c",
+        "g": "67a563a3d4b27dd2",
         "name": "PreRequest",
         "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/timezone\";\nnode.send(msg);",
         "outputs": 1,
@@ -2569,8 +2418,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 610,
-        "y": 2040,
+        "x": 850,
+        "y": 2200,
         "wires": [
             [
                 "18da557133285e3a"
@@ -2581,14 +2430,14 @@
         "id": "f2b4c1c73a6b3a6c",
         "type": "link call",
         "z": "2807eb5038af723b",
-        "g": "603ebd9c67ab0d3c",
+        "g": "67a563a3d4b27dd2",
         "name": "ReST/PATCH Timezone",
         "links": [
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 390,
-        "y": 2020,
+        "x": 630,
+        "y": 2180,
         "wires": [
             [
                 "c455f4853c45958b"
@@ -2599,14 +2448,14 @@
         "id": "18da557133285e3a",
         "type": "link call",
         "z": "2807eb5038af723b",
-        "g": "603ebd9c67ab0d3c",
+        "g": "67a563a3d4b27dd2",
         "name": "ReST/GET Timezone",
         "links": [
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 720,
-        "y": 2080,
+        "x": 960,
+        "y": 2240,
         "wires": [
             [
                 "898ae72159457af1"
@@ -2617,13 +2466,13 @@
         "id": "04729c8adab20efb",
         "type": "link in",
         "z": "2807eb5038af723b",
-        "g": "603ebd9c67ab0d3c",
+        "g": "67a563a3d4b27dd2",
         "name": "Token Change Event Listener",
         "links": [
             "8b03a6b2f1141366"
         ],
-        "x": 495,
-        "y": 2080,
+        "x": 735,
+        "y": 2240,
         "wires": [
             [
                 "c455f4853c45958b"
@@ -2634,11 +2483,11 @@
         "id": "c77fd1a058fde16f",
         "type": "comment",
         "z": "2807eb5038af723b",
-        "g": "603ebd9c67ab0d3c",
+        "g": "67a563a3d4b27dd2",
         "name": "Token Change Event Listener",
         "info": "",
-        "x": 360,
-        "y": 2080,
+        "x": 600,
+        "y": 2240,
         "wires": []
     },
     {
@@ -2647,7 +2496,7 @@
         "z": "2807eb5038af723b",
         "name": "Water-Dispenser",
         "info": "",
-        "x": 1220,
+        "x": 1340,
         "y": 600,
         "wires": []
     },
@@ -2689,8 +2538,8 @@
         "outputs": 1,
         "useDifferentColor": false,
         "className": "",
-        "x": 2020,
-        "y": 1600,
+        "x": 1860,
+        "y": 1880,
         "wires": [
             []
         ]
@@ -2699,10 +2548,11 @@
         "id": "01cebc855c52442a",
         "type": "comment",
         "z": "2807eb5038af723b",
+        "g": "2c4a0504fadaa3d6",
         "name": "Show Water Remaining",
         "info": "",
-        "x": 1530,
-        "y": 1400,
+        "x": 1380,
+        "y": 1520,
         "wires": []
     },
     {
@@ -2711,24 +2561,15 @@
         "z": "2807eb5038af723b",
         "name": "Show Water Consumption",
         "info": "",
-        "x": 1540,
-        "y": 1540,
-        "wires": []
-    },
-    {
-        "id": "71725bf6e53fd0af",
-        "type": "comment",
-        "z": "2807eb5038af723b",
-        "name": "Show Water-Dispenser Status",
-        "info": "",
-        "x": 1550,
-        "y": 1720,
+        "x": 1380,
+        "y": 1820,
         "wires": []
     },
     {
         "id": "e3c76292e5d759dc",
         "type": "ui_gauge",
         "z": "2807eb5038af723b",
+        "g": "2c4a0504fadaa3d6",
         "name": "",
         "group": "1c59b2e42a6a75ab",
         "order": 1,
@@ -2748,16 +2589,17 @@
         "seg1": "50",
         "seg2": "100",
         "className": "",
-        "x": 1860,
-        "y": 1460,
+        "x": 2210,
+        "y": 1600,
         "wires": []
     },
     {
         "id": "7e74b56c67122fd2",
         "type": "ui_led",
         "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
         "order": 4,
-        "group": "1c59b2e42a6a75ab",
+        "group": "ae0ea2451b27327f",
         "width": 0,
         "height": 0,
         "label": "",
@@ -2766,12 +2608,17 @@
         "colorForValue": [
             {
                 "color": "#ff0000",
-                "value": "Off",
+                "value": "Error",
                 "valueType": "str"
             },
             {
                 "color": "#008000",
-                "value": "On",
+                "value": "Connected",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffff00",
+                "value": "Disconnected",
                 "valueType": "str"
             }
         ],
@@ -2779,47 +2626,27 @@
         "shape": "circle",
         "showGlow": true,
         "name": "",
-        "x": 1450,
-        "y": 1160,
+        "x": 2250,
+        "y": 1260,
         "wires": []
     },
     {
         "id": "fd6e032637506e5e",
         "type": "ui_text",
         "z": "2807eb5038af723b",
-        "group": "1c59b2e42a6a75ab",
+        "g": "4b04d086ad5de92b",
+        "group": "ae0ea2451b27327f",
         "order": 3,
         "width": "6",
         "height": "2",
         "name": "",
-        "label": "Device Health Check",
+        "label": "Device Status",
         "format": "{{msg.payload}}",
         "layout": "row-spread",
         "className": "",
-        "x": 1500,
-        "y": 1120,
+        "x": 2280,
+        "y": 1180,
         "wires": []
-    },
-    {
-        "id": "d7710f7f52438651",
-        "type": "mqtt in",
-        "z": "2807eb5038af723b",
-        "name": "",
-        "topic": "users/petification/water-dispenser/scale/water",
-        "qos": "2",
-        "datatype": "auto",
-        "broker": "f2f86710f80408e7",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 1600,
-        "y": 1460,
-        "wires": [
-            [
-                "e3c76292e5d759dc"
-            ]
-        ]
     },
     {
         "id": "e4f59b5fe558ceb9",
@@ -2834,8 +2661,8 @@
         "rap": true,
         "rh": 0,
         "inputs": 0,
-        "x": 1620,
-        "y": 1600,
+        "x": 1460,
+        "y": 1880,
         "wires": [
             [
                 "678eb9b6773d42d3"
@@ -2850,7 +2677,7 @@
         "name": "",
         "label": "",
         "tooltip": "",
-        "place": "Select option",
+        "place": "Select device",
         "group": "ae0ea2451b27327f",
         "order": 5,
         "width": 0,
@@ -2862,7 +2689,7 @@
         "topic": "",
         "topicType": "str",
         "className": "",
-        "x": 1710,
+        "x": 1830,
         "y": 880,
         "wires": [
             [
@@ -2879,7 +2706,7 @@
         "links": [
             "8b03a6b2f1141366"
         ],
-        "x": 1415,
+        "x": 1535,
         "y": 720,
         "wires": [
             [
@@ -2894,7 +2721,7 @@
         "g": "984a3b613f2b4abc",
         "name": "Token Change Event Listener",
         "info": "",
-        "x": 1280,
+        "x": 1400,
         "y": 720,
         "wires": []
     },
@@ -2904,13 +2731,13 @@
         "z": "2807eb5038af723b",
         "g": "984a3b613f2b4abc",
         "name": "PreRequest",
-        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/devices/all\";\n\nreturn msg;",
+        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/devices/type/1\";\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1430,
+        "x": 1550,
         "y": 760,
         "wires": [
             [
@@ -2928,7 +2755,7 @@
             "7986a94a1d338f6c"
         ],
         "timeout": "30",
-        "x": 1530,
+        "x": 1650,
         "y": 800,
         "wires": [
             [
@@ -2942,13 +2769,13 @@
         "z": "2807eb5038af723b",
         "g": "984a3b613f2b4abc",
         "name": "ConvPayload",
-        "func": "const res = [];\n\nfor(let obj of msg.payload) {\n    const item = {};\n    item[obj.name] = obj.cid;\n    res.push(item);\n}\n\nmsg.options = res;\nmsg.payload = {};\nreturn msg;",
+        "func": "const res = [];\n\nlet sel = \"\";\nfor(let obj of msg.payload) {\n    sel = obj.cid;\n    \n    const item = {};\n    item[obj.name] = obj.cid;\n    res.push(item);\n}\n\nmsg.options = res;\nmsg.payload = sel;\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1630,
+        "x": 1750,
         "y": 840,
         "wires": [
             [
@@ -2962,13 +2789,13 @@
         "z": "2807eb5038af723b",
         "g": "984a3b613f2b4abc",
         "name": "SaveCid",
-        "func": "flow.set('waterSupplier', msg.payload);",
+        "func": "if(msg.payload) {\n    flow.set('waterSupplier', msg.payload);\n    node.send(msg);\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1780,
+        "x": 1900,
         "y": 920,
         "wires": [
             [
@@ -2981,9 +2808,9 @@
         "type": "comment",
         "z": "2807eb5038af723b",
         "g": "984a3b613f2b4abc",
-        "name": "Device Selection",
+        "name": "Water Supplier Selection",
         "info": "",
-        "x": 1240,
+        "x": 1390,
         "y": 680,
         "wires": []
     },
@@ -2992,10 +2819,13 @@
         "type": "link out",
         "z": "2807eb5038af723b",
         "g": "984a3b613f2b4abc",
-        "name": "",
+        "name": "Water Supplier Selection Event Out",
         "mode": "link",
-        "links": [],
-        "x": 1795,
+        "links": [
+            "df253a0b3fe05084",
+            "fe5cd6ea4f60ed48"
+        ],
+        "x": 1915,
         "y": 960,
         "wires": []
     },
@@ -3004,16 +2834,1441 @@
         "type": "comment",
         "z": "2807eb5038af723b",
         "g": "984a3b613f2b4abc",
-        "name": "Device Selection Event Out",
+        "name": "Water Supplier Selection Event Out",
         "info": "",
-        "x": 1930,
+        "x": 2080,
         "y": 960,
         "wires": []
     },
     {
+        "id": "8fb07fcb5260983e",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "65031937e0b0efd7",
+        "name": "Device Status Changed Event Listener",
+        "links": [
+            "82402946b66c1c49"
+        ],
+        "x": 1795,
+        "y": 1260,
+        "wires": [
+            [
+                "714efe09bcdb14c5"
+            ]
+        ]
+    },
+    {
+        "id": "cefedacc1a9a60fe",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "65031937e0b0efd7",
+        "name": "Device Status Changed Event Listener",
+        "info": "Client ID:      msg.payload.cid\nDevice Status:  msg.payload.stat",
+        "x": 1630,
+        "y": 1260,
+        "wires": []
+    },
+    {
+        "id": "df253a0b3fe05084",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "Water Supplier Selection Event Listener",
+        "links": [
+            "d48f225f687e0af3"
+        ],
+        "x": 1595,
+        "y": 1100,
+        "wires": [
+            [
+                "a24de4eeb2510f89"
+            ]
+        ]
+    },
+    {
+        "id": "48336dd51d845429",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "Water Supplier Selection Event Listener",
+        "info": "",
+        "x": 1430,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "a24de4eeb2510f89",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/device/${flow.get('waterSupplier')}`;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1610,
+        "y": 1140,
+        "wires": [
+            [
+                "95ccd9f3332e4585"
+            ]
+        ]
+    },
+    {
+        "id": "95ccd9f3332e4585",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "ReST/GET Device",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 1690,
+        "y": 1180,
+        "wires": [
+            [
+                "12402ffb8a74c09b"
+            ]
+        ]
+    },
+    {
+        "id": "714efe09bcdb14c5",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "Filter",
+        "func": "if(msg.payload.cid === flow.get('waterSupplier')) {\n    msg.payload = msg.payload.stat;\n    return [msg, null];\n} else if(msg.payload.cid === flow.get('feedMachine')) {\n    msg.payload = msg.payload.stat;\n    return [null, msg];\n}",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1910,
+        "y": 1260,
+        "wires": [
+            [
+                "4a40bec7c63ea06c"
+            ],
+            [
+                "f3e912f35040ce3e"
+            ]
+        ]
+    },
+    {
+        "id": "12402ffb8a74c09b",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "ConvPayload",
+        "func": "if(msg.payload.length === 1) {\n    msg.payload = msg.payload[0][\"status\"];\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1890,
+        "y": 1180,
+        "wires": [
+            [
+                "4a40bec7c63ea06c"
+            ]
+        ]
+    },
+    {
+        "id": "4a40bec7c63ea06c",
+        "type": "change",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "0",
+                "fromt": "num",
+                "to": "Connected",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "1",
+                "fromt": "num",
+                "to": "Disconnected",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "2",
+                "fromt": "num",
+                "to": "Error",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2080,
+        "y": 1220,
+        "wires": [
+            [
+                "fd6e032637506e5e",
+                "7e74b56c67122fd2"
+            ]
+        ]
+    },
+    {
+        "id": "732064e323a365d5",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "Device Health",
+        "info": "",
+        "x": 1350,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "fe5cd6ea4f60ed48",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "2c4a0504fadaa3d6",
+        "name": "Water Supplier Selection Event Listener",
+        "links": [
+            "d48f225f687e0af3"
+        ],
+        "x": 1595,
+        "y": 1560,
+        "wires": [
+            [
+                "eac250045db34d86"
+            ]
+        ]
+    },
+    {
+        "id": "d73b46a160cf656b",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "2c4a0504fadaa3d6",
+        "name": "Water Supplier Selection Event Listener",
+        "info": "",
+        "x": 1430,
+        "y": 1560,
+        "wires": []
+    },
+    {
+        "id": "186c59b9d088a899",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "ac174e7784e809ce",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/user/name\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 680,
+        "wires": [
+            [
+                "c8acbebc1b799e6d"
+            ]
+        ]
+    },
+    {
+        "id": "c8acbebc1b799e6d",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "ac174e7784e809ce",
+        "name": "ReST/GET Username",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 640,
+        "y": 740,
+        "wires": [
+            [
+                "73352e99e5f755bf"
+            ]
+        ]
+    },
+    {
+        "id": "eac250045db34d86",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2c4a0504fadaa3d6",
+        "name": "DynSubscribe",
+        "func": "if(flow.get('uname') && flow.get('waterSupplier')) {\n    msg.action = \"subscribe\";\n    msg.topic = `users/${flow.get('uname')}/${flow.get('waterSupplier')}/scale/water`;\n    return msg;\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1640,
+        "y": 1600,
+        "wires": [
+            [
+                "fbad5870331e550d",
+                "5ff5c950f427e565"
+            ]
+        ]
+    },
+    {
+        "id": "fbad5870331e550d",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "g": "2c4a0504fadaa3d6",
+        "name": "",
+        "topic": "",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 1,
+        "x": 1810,
+        "y": 1560,
+        "wires": [
+            [
+                "9fb84f2411852ded"
+            ]
+        ]
+    },
+    {
+        "id": "5ff5c950f427e565",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2c4a0504fadaa3d6",
+        "name": "PreRequest",
+        "func": "msg.action = \"\";\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/record/${encodeURIComponent(msg.topic)}`;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1830,
+        "y": 1640,
+        "wires": [
+            [
+                "5920a648af435001"
+            ]
+        ]
+    },
+    {
+        "id": "5920a648af435001",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "2c4a0504fadaa3d6",
+        "name": "ReST/GET Latest Record",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 1950,
+        "y": 1680,
+        "wires": [
+            [
+                "57d1b5a6d939c419"
+            ]
+        ]
+    },
+    {
+        "id": "57d1b5a6d939c419",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2c4a0504fadaa3d6",
+        "name": "PostRequest",
+        "func": "if(msg.payload.length === 1) {\n    msg.payload = parseInt(msg.payload[0].payload);\n} else {\n    mag.payload = 0;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2050,
+        "y": 1640,
+        "wires": [
+            [
+                "e3c76292e5d759dc"
+            ]
+        ]
+    },
+    {
+        "id": "9fb84f2411852ded",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "2c4a0504fadaa3d6",
+        "name": "ParseInt",
+        "func": "msg.payload = parseInt(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2060,
+        "y": 1560,
+        "wires": [
+            [
+                "e3c76292e5d759dc"
+            ]
+        ]
+    },
+    {
+        "id": "a684c6dc311cf248",
+        "type": "ui_dropdown",
+        "z": "2807eb5038af723b",
+        "g": "f42877e73b463e5a",
+        "name": "",
+        "label": "",
+        "tooltip": "",
+        "place": "Select device",
+        "group": "93952d2944d4170e",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [],
+        "payload": "",
+        "topic": "",
+        "topicType": "str",
+        "className": "",
+        "x": 3030,
+        "y": 880,
+        "wires": [
+            [
+                "fdd855824429cf5d"
+            ]
+        ]
+    },
+    {
+        "id": "55d08b4be0e35315",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "f42877e73b463e5a",
+        "name": "Token Change Event Listener",
+        "links": [
+            "8b03a6b2f1141366"
+        ],
+        "x": 2735,
+        "y": 720,
+        "wires": [
+            [
+                "c9f5951acd620585"
+            ]
+        ]
+    },
+    {
+        "id": "ee78781ad376b48c",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "f42877e73b463e5a",
+        "name": "Token Change Event Listener",
+        "info": "",
+        "x": 2600,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "c9f5951acd620585",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "f42877e73b463e5a",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = \"https://petificationblue.ddns.net:1880/devices/type/0\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2750,
+        "y": 760,
+        "wires": [
+            [
+                "5033acfb7a40ff58"
+            ]
+        ]
+    },
+    {
+        "id": "5033acfb7a40ff58",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "f42877e73b463e5a",
+        "name": "ReST/GET Devices",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 2850,
+        "y": 800,
+        "wires": [
+            [
+                "fbac775c76bc33c3"
+            ]
+        ]
+    },
+    {
+        "id": "fbac775c76bc33c3",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "f42877e73b463e5a",
+        "name": "ConvPayload",
+        "func": "const res = [];\n\nlet sel = \"\";\nfor(let obj of msg.payload) {\n    sel = obj.cid;\n    \n    const item = {};\n    item[obj.name] = obj.cid;\n    res.push(item);\n}\n\nmsg.options = res;\nmsg.payload = sel;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2950,
+        "y": 840,
+        "wires": [
+            [
+                "a684c6dc311cf248"
+            ]
+        ]
+    },
+    {
+        "id": "fdd855824429cf5d",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "f42877e73b463e5a",
+        "name": "SaveCid",
+        "func": "if(msg.payload) {\n    flow.set('feedMachine', msg.payload);\n    node.send(msg);\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3100,
+        "y": 920,
+        "wires": [
+            [
+                "f3801119dcfd5901"
+            ]
+        ]
+    },
+    {
+        "id": "fa4212ec273cbbd9",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "f42877e73b463e5a",
+        "name": "Device Selection",
+        "info": "",
+        "x": 2560,
+        "y": 680,
+        "wires": []
+    },
+    {
+        "id": "f3801119dcfd5901",
+        "type": "link out",
+        "z": "2807eb5038af723b",
+        "g": "f42877e73b463e5a",
+        "name": "Feed Machine Selection Event Out",
+        "mode": "link",
+        "links": [
+            "fdb462b8da6f3143",
+            "ebf0719a6b2852db",
+            "92f189a434d251ca",
+            "4f8c02041511ef4f"
+        ],
+        "x": 3115,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "b711e183002bde61",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "f42877e73b463e5a",
+        "name": "Feed Machine Selection Event Out",
+        "info": "",
+        "x": 3280,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "49867a8f9fcf6de1",
+        "type": "ui_led",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "order": 4,
+        "group": "93952d2944d4170e",
+        "width": 0,
+        "height": 0,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "Error",
+                "valueType": "str"
+            },
+            {
+                "color": "#008000",
+                "value": "Connected",
+                "valueType": "str"
+            },
+            {
+                "color": "#ffff00",
+                "value": "Disconnected",
+                "valueType": "str"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 2250,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "990cf4a3e6b73f38",
+        "type": "ui_text",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "group": "93952d2944d4170e",
+        "order": 3,
+        "width": "6",
+        "height": "2",
+        "name": "",
+        "label": "Device Status",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "className": "",
+        "x": 2280,
+        "y": 1320,
+        "wires": []
+    },
+    {
+        "id": "f3e912f35040ce3e",
+        "type": "change",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "0",
+                "fromt": "num",
+                "to": "Connected",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "1",
+                "fromt": "num",
+                "to": "Disconnected",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "2",
+                "fromt": "num",
+                "to": "Error",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 2080,
+        "y": 1360,
+        "wires": [
+            [
+                "990cf4a3e6b73f38",
+                "49867a8f9fcf6de1"
+            ]
+        ]
+    },
+    {
+        "id": "fdb462b8da6f3143",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "Feed Machine Selection Event Listener",
+        "links": [
+            "f3801119dcfd5901"
+        ],
+        "x": 1595,
+        "y": 1340,
+        "wires": [
+            [
+                "69562e4061824b1b"
+            ]
+        ]
+    },
+    {
+        "id": "9e5ff126908e18bd",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "Feed Machine Selection Event Listener",
+        "info": "",
+        "x": 1430,
+        "y": 1340,
+        "wires": []
+    },
+    {
+        "id": "69562e4061824b1b",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "PreRequest",
+        "func": "msg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/device/${flow.get('feedMachine')}`;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1610,
+        "y": 1380,
+        "wires": [
+            [
+                "714957262501b7e1"
+            ]
+        ]
+    },
+    {
+        "id": "714957262501b7e1",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "ReST/GET Device",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 1690,
+        "y": 1420,
+        "wires": [
+            [
+                "78fd0982343ef873"
+            ]
+        ]
+    },
+    {
+        "id": "78fd0982343ef873",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "4b04d086ad5de92b",
+        "name": "ConvPayload",
+        "func": "if(msg.payload.length === 1) {\n    msg.payload = msg.payload[0][\"status\"];\n    return msg;\n}",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1890,
+        "y": 1420,
+        "wires": [
+            [
+                "f3e912f35040ce3e"
+            ]
+        ]
+    },
+    {
+        "id": "fad318efa3bf8370",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "Show Food Bowl Remaining",
+        "info": "",
+        "x": 2600,
+        "y": 1060,
+        "wires": []
+    },
+    {
+        "id": "372ff5131e0a9d21",
+        "type": "ui_gauge",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "",
+        "group": "35e893befae8d648",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Food Bowl",
+        "label": "units",
+        "format": "{{value}} g",
+        "min": 0,
+        "max": "150",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "50",
+        "seg2": "100",
+        "className": "",
+        "x": 3430,
+        "y": 1140,
+        "wires": []
+    },
+    {
+        "id": "ebf0719a6b2852db",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "Feed Machine Selection Event Listener",
+        "links": [
+            "f3801119dcfd5901"
+        ],
+        "x": 2795,
+        "y": 1100,
+        "wires": [
+            [
+                "ddb937c60cd1dd16"
+            ]
+        ]
+    },
+    {
+        "id": "30f97fe45c4f4d29",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "Feed Machine Selection Event Listener",
+        "info": "",
+        "x": 2630,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "ddb937c60cd1dd16",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "DynSubscribe",
+        "func": "if(flow.get('uname') && flow.get('feedMachine')) {\n    msg.action = \"subscribe\";\n    msg.topic = `users/${flow.get('uname')}/${flow.get('feedMachine')}/scale/bowl`;\n    return msg;\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2840,
+        "y": 1140,
+        "wires": [
+            [
+                "fe29708ada8ca4c1",
+                "bb0c539d7e2eca54"
+            ]
+        ]
+    },
+    {
+        "id": "fe29708ada8ca4c1",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "",
+        "topic": "",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 1,
+        "x": 3010,
+        "y": 1100,
+        "wires": [
+            [
+                "98124579dd5b1f63"
+            ]
+        ]
+    },
+    {
+        "id": "bb0c539d7e2eca54",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "PreRequest",
+        "func": "msg.action = \"\";\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/record/${encodeURIComponent(msg.topic)}`;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3030,
+        "y": 1180,
+        "wires": [
+            [
+                "b4921c8a73239b9f"
+            ]
+        ]
+    },
+    {
+        "id": "b4921c8a73239b9f",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "ReST/GET Latest Record",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 3150,
+        "y": 1220,
+        "wires": [
+            [
+                "f6cc12bd9ba0f418"
+            ]
+        ]
+    },
+    {
+        "id": "f6cc12bd9ba0f418",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "PostRequest",
+        "func": "if(msg.payload.length === 1) {\n    msg.payload = parseInt(msg.payload[0].payload);\n} else {\n    mag.payload = 0;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3250,
+        "y": 1180,
+        "wires": [
+            [
+                "372ff5131e0a9d21"
+            ]
+        ]
+    },
+    {
+        "id": "98124579dd5b1f63",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "70dd97b42cce4e90",
+        "name": "ParseInt",
+        "func": "msg.payload = parseInt(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3260,
+        "y": 1100,
+        "wires": [
+            [
+                "372ff5131e0a9d21"
+            ]
+        ]
+    },
+    {
+        "id": "bde2e3d8333824a0",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "e81927e59114b6b3",
+        "name": "Show Food Container Remaining",
+        "info": "",
+        "x": 2610,
+        "y": 1320,
+        "wires": []
+    },
+    {
+        "id": "899d32f86ed28a3c",
+        "type": "ui_gauge",
+        "z": "2807eb5038af723b",
+        "g": "e81927e59114b6b3",
+        "name": "",
+        "group": "35e893befae8d648",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Food Container",
+        "label": "units",
+        "format": "{{value}} g",
+        "min": 0,
+        "max": "150",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "50",
+        "seg2": "100",
+        "className": "",
+        "x": 3440,
+        "y": 1400,
+        "wires": []
+    },
+    {
+        "id": "92f189a434d251ca",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "g": "e81927e59114b6b3",
+        "name": "Feed Machine Selection Event Listener",
+        "links": [
+            "f3801119dcfd5901"
+        ],
+        "x": 2795,
+        "y": 1360,
+        "wires": [
+            [
+                "4271846e7bd991fd"
+            ]
+        ]
+    },
+    {
+        "id": "908a8e22a62388f5",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "g": "e81927e59114b6b3",
+        "name": "Feed Machine Selection Event Listener",
+        "info": "",
+        "x": 2630,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "4271846e7bd991fd",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "e81927e59114b6b3",
+        "name": "DynSubscribe",
+        "func": "if(flow.get('uname') && flow.get('feedMachine')) {\n    msg.action = \"subscribe\";\n    msg.topic = `users/${flow.get('uname')}/${flow.get('feedMachine')}/scale/container`;\n    return msg;\n}\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2840,
+        "y": 1400,
+        "wires": [
+            [
+                "c20f61e0a8ca70bc",
+                "3578deeb95fe02fc"
+            ]
+        ]
+    },
+    {
+        "id": "c20f61e0a8ca70bc",
+        "type": "mqtt in",
+        "z": "2807eb5038af723b",
+        "g": "e81927e59114b6b3",
+        "name": "",
+        "topic": "",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "f2f86710f80408e7",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 1,
+        "x": 3010,
+        "y": 1360,
+        "wires": [
+            [
+                "4f09ce5b685d23c6"
+            ]
+        ]
+    },
+    {
+        "id": "3578deeb95fe02fc",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "e81927e59114b6b3",
+        "name": "PreRequest",
+        "func": "msg.action = \"\";\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/record/${encodeURIComponent(msg.topic)}`;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3030,
+        "y": 1440,
+        "wires": [
+            [
+                "c0df4cd1d7e78050"
+            ]
+        ]
+    },
+    {
+        "id": "c0df4cd1d7e78050",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "g": "e81927e59114b6b3",
+        "name": "ReST/GET Latest Record",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 3150,
+        "y": 1480,
+        "wires": [
+            [
+                "d9b266a200b9063f"
+            ]
+        ]
+    },
+    {
+        "id": "d9b266a200b9063f",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "e81927e59114b6b3",
+        "name": "PostRequest",
+        "func": "if(msg.payload.length === 1) {\n    msg.payload = parseInt(msg.payload[0].payload);\n} else {\n    mag.payload = 0;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3250,
+        "y": 1440,
+        "wires": [
+            [
+                "899d32f86ed28a3c"
+            ]
+        ]
+    },
+    {
+        "id": "4f09ce5b685d23c6",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "e81927e59114b6b3",
+        "name": "ParseInt",
+        "func": "msg.payload = parseInt(msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3260,
+        "y": 1360,
+        "wires": [
+            [
+                "899d32f86ed28a3c"
+            ]
+        ]
+    },
+    {
+        "id": "586327e44ffa4ffe",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "42c1fdbfda8baa20",
+        "name": "PrePublish",
+        "func": "msg.topic = `users/${flow.get('uname')}/${flow.get('feedMachine')}/action/feed`;\nmsg.payload = msg.payload.weight;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4090,
+        "y": 1180,
+        "wires": [
+            [
+                "ca92f6cd88cb9b8b"
+            ]
+        ]
+    },
+    {
+        "id": "ca92f6cd88cb9b8b",
+        "type": "mqtt out",
+        "z": "2807eb5038af723b",
+        "g": "42c1fdbfda8baa20",
+        "name": "",
+        "topic": "",
+        "qos": "",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "f2f86710f80408e7",
+        "x": 4250,
+        "y": 1180,
+        "wires": []
+    },
+    {
+        "id": "3a072ccc2e6d7d23",
+        "type": "ui_table",
+        "z": "2807eb5038af723b",
+        "group": "ad04c2ea2866741d",
+        "name": "",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "columns": [],
+        "outputs": 1,
+        "cts": true,
+        "x": 4130,
+        "y": 760,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7e6c98d8b0673a98",
+        "type": "debug",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 4130,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "19fd6e82dadd1282",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "name": "PreRequest",
+        "func": "// [POST] /schedule/:time/:topic/:payload\n\nconst time = msg.payload.time;\nconst topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('feedMachine')}/action/feed`);\nconst payload = msg.payload.weight;\n\nmsg.method = \"POST\";\nmsg.url = `https://petificationblue.ddns.net:1880/schedule/${time}/${topic}/${payload}`;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 4090,
+        "y": 1000,
+        "wires": [
+            [
+                "ccd6ce4a5d9991e6"
+            ]
+        ]
+    },
+    {
+        "id": "ccd6ce4a5d9991e6",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "name": "ReST/POST Schedule",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 4300,
+        "y": 1000,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4f8c02041511ef4f",
+        "type": "link in",
+        "z": "2807eb5038af723b",
+        "name": "Feed Machine Selection Event Listener",
+        "links": [
+            "f3801119dcfd5901"
+        ],
+        "x": 3955,
+        "y": 820,
+        "wires": [
+            [
+                "62993187ae4b034e"
+            ]
+        ]
+    },
+    {
+        "id": "04bfe2c13a6893a7",
+        "type": "comment",
+        "z": "2807eb5038af723b",
+        "name": "Feed Machine Selection Event Listener",
+        "info": "",
+        "x": 3790,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "62993187ae4b034e",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "name": "PreRequest",
+        "func": "const topic = encodeURIComponent(`users/${flow.get('uname')}/${flow.get('feedMachine')}/action/feed`);\n\nmsg.method = \"GET\";\nmsg.url = `https://petificationblue.ddns.net:1880/schedules/${topic}`;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 3990,
+        "y": 860,
+        "wires": [
+            [
+                "60d7d8d0453f9fbb"
+            ]
+        ]
+    },
+    {
+        "id": "60d7d8d0453f9fbb",
+        "type": "link call",
+        "z": "2807eb5038af723b",
+        "name": "ReST/GET Schedule",
+        "links": [
+            "7986a94a1d338f6c"
+        ],
+        "timeout": "30",
+        "x": 4100,
+        "y": 900,
+        "wires": [
+            [
+                "f9a475a6424e4513"
+            ]
+        ]
+    },
+    {
+        "id": "f9a475a6424e4513",
+        "type": "debug",
+        "z": "2807eb5038af723b",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 4310,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "72a4115908d159dd",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "67a563a3d4b27dd2",
+        "name": "TimezoneList",
+        "func": "msg.options = [\n  'Europe/Andorra',\n  'Asia/Dubai',\n  'Asia/Kabul',\n  'Europe/Tirane',\n  'Asia/Yerevan',\n  'Antarctica/Casey',\n  'Antarctica/Davis',\n  'Antarctica/DumontDUrville', // https://bugs.chromium.org/p/chromium/issues/detail?id=928068\n  'Antarctica/Mawson',\n  'Antarctica/Palmer',\n  'Antarctica/Rothera',\n  'Antarctica/Syowa',\n  'Antarctica/Troll',\n  'Antarctica/Vostok',\n  'America/Argentina/Buenos_Aires',\n  'America/Argentina/Cordoba',\n  'America/Argentina/Salta',\n  'America/Argentina/Jujuy',\n  'America/Argentina/Tucuman',\n  'America/Argentina/Catamarca',\n  'America/Argentina/La_Rioja',\n  'America/Argentina/San_Juan',\n  'America/Argentina/Mendoza',\n  'America/Argentina/San_Luis',\n  'America/Argentina/Rio_Gallegos',\n  'America/Argentina/Ushuaia',\n  'Pacific/Pago_Pago',\n  'Europe/Vienna',\n  'Australia/Lord_Howe',\n  'Antarctica/Macquarie',\n  'Australia/Hobart',\n  'Australia/Currie',\n  'Australia/Melbourne',\n  'Australia/Sydney',\n  'Australia/Broken_Hill',\n  'Australia/Brisbane',\n  'Australia/Lindeman',\n  'Australia/Adelaide',\n  'Australia/Darwin',\n  'Australia/Perth',\n  'Australia/Eucla',\n  'Asia/Baku',\n  'America/Barbados',\n  'Asia/Dhaka',\n  'Europe/Brussels',\n  'Europe/Sofia',\n  'Atlantic/Bermuda',\n  'Asia/Brunei',\n  'America/La_Paz',\n  'America/Noronha',\n  'America/Belem',\n  'America/Fortaleza',\n  'America/Recife',\n  'America/Araguaina',\n  'America/Maceio',\n  'America/Bahia',\n  'America/Sao_Paulo',\n  'America/Campo_Grande',\n  'America/Cuiaba',\n  'America/Santarem',\n  'America/Porto_Velho',\n  'America/Boa_Vista',\n  'America/Manaus',\n  'America/Eirunepe',\n  'America/Rio_Branco',\n  'America/Nassau',\n  'Asia/Thimphu',\n  'Europe/Minsk',\n  'America/Belize',\n  'America/St_Johns',\n  'America/Halifax',\n  'America/Glace_Bay',\n  'America/Moncton',\n  'America/Goose_Bay',\n  'America/Blanc-Sablon',\n  'America/Toronto',\n  'America/Nipigon',\n  'America/Thunder_Bay',\n  'America/Iqaluit',\n  'America/Pangnirtung',\n  'America/Atikokan',\n  'America/Winnipeg',\n  'America/Rainy_River',\n  'America/Resolute',\n  'America/Rankin_Inlet',\n  'America/Regina',\n  'America/Swift_Current',\n  'America/Edmonton',\n  'America/Cambridge_Bay',\n  'America/Yellowknife',\n  'America/Inuvik',\n  'America/Creston',\n  'America/Dawson_Creek',\n  'America/Fort_Nelson',\n  'America/Vancouver',\n  'America/Whitehorse',\n  'America/Dawson',\n  'Indian/Cocos',\n  'Europe/Zurich',\n  'Africa/Abidjan',\n  'Pacific/Rarotonga',\n  'America/Santiago',\n  'America/Punta_Arenas',\n  'Pacific/Easter',\n  'Asia/Shanghai',\n  'Asia/Urumqi',\n  'America/Bogota',\n  'America/Costa_Rica',\n  'America/Havana',\n  'Atlantic/Cape_Verde',\n  'America/Curacao',\n  'Indian/Christmas',\n  'Asia/Nicosia',\n  'Asia/Famagusta',\n  'Europe/Prague',\n  'Europe/Berlin',\n  'Europe/Copenhagen',\n  'America/Santo_Domingo',\n  'Africa/Algiers',\n  'America/Guayaquil',\n  'Pacific/Galapagos',\n  'Europe/Tallinn',\n  'Africa/Cairo',\n  'Africa/El_Aaiun',\n  'Europe/Madrid',\n  'Africa/Ceuta',\n  'Atlantic/Canary',\n  'Europe/Helsinki',\n  'Pacific/Fiji',\n  'Atlantic/Stanley',\n  'Pacific/Chuuk',\n  'Pacific/Pohnpei',\n  'Pacific/Kosrae',\n  'Atlantic/Faroe',\n  'Europe/Paris',\n  'Europe/London',\n  'Asia/Tbilisi',\n  'America/Cayenne',\n  'Africa/Accra',\n  'Europe/Gibraltar',\n  'America/Godthab',\n  'America/Danmarkshavn',\n  'America/Scoresbysund',\n  'America/Thule',\n  'Europe/Athens',\n  'Atlantic/South_Georgia',\n  'America/Guatemala',\n  'Pacific/Guam',\n  'Africa/Bissau',\n  'America/Guyana',\n  'Asia/Hong_Kong',\n  'America/Tegucigalpa',\n  'America/Port-au-Prince',\n  'Europe/Budapest',\n  'Asia/Jakarta',\n  'Asia/Pontianak',\n  'Asia/Makassar',\n  'Asia/Jayapura',\n  'Europe/Dublin',\n  'Asia/Jerusalem',\n  'Asia/Kolkata',\n  'Indian/Chagos',\n  'Asia/Baghdad',\n  'Asia/Tehran',\n  'Atlantic/Reykjavik',\n  'Europe/Rome',\n  'America/Jamaica',\n  'Asia/Amman',\n  'Asia/Tokyo',\n  'Africa/Nairobi',\n  'Asia/Bishkek',\n  'Pacific/Tarawa',\n  'Pacific/Enderbury',\n  'Pacific/Kiritimati',\n  'Asia/Pyongyang',\n  'Asia/Seoul',\n  'Asia/Almaty',\n  'Asia/Qyzylorda',\n  'Asia/Qostanay', // https://bugs.chromium.org/p/chromium/issues/detail?id=928068\n  'Asia/Aqtobe',\n  'Asia/Aqtau',\n  'Asia/Atyrau',\n  'Asia/Oral',\n  'Asia/Beirut',\n  'Asia/Colombo',\n  'Africa/Monrovia',\n  'Europe/Vilnius',\n  'Europe/Luxembourg',\n  'Europe/Riga',\n  'Africa/Tripoli',\n  'Africa/Casablanca',\n  'Europe/Monaco',\n  'Europe/Chisinau',\n  'Pacific/Majuro',\n  'Pacific/Kwajalein',\n  'Asia/Yangon',\n  'Asia/Ulaanbaatar',\n  'Asia/Hovd',\n  'Asia/Choibalsan',\n  'Asia/Macau',\n  'America/Martinique',\n  'Europe/Malta',\n  'Indian/Mauritius',\n  'Indian/Maldives',\n  'America/Mexico_City',\n  'America/Cancun',\n  'America/Merida',\n  'America/Monterrey',\n  'America/Matamoros',\n  'America/Mazatlan',\n  'America/Chihuahua',\n  'America/Ojinaga',\n  'America/Hermosillo',\n  'America/Tijuana',\n  'America/Bahia_Banderas',\n  'Asia/Kuala_Lumpur',\n  'Asia/Kuching',\n  'Africa/Maputo',\n  'Africa/Windhoek',\n  'Pacific/Noumea',\n  'Pacific/Norfolk',\n  'Africa/Lagos',\n  'America/Managua',\n  'Europe/Amsterdam',\n  'Europe/Oslo',\n  'Asia/Kathmandu',\n  'Pacific/Nauru',\n  'Pacific/Niue',\n  'Pacific/Auckland',\n  'Pacific/Chatham',\n  'America/Panama',\n  'America/Lima',\n  'Pacific/Tahiti',\n  'Pacific/Marquesas',\n  'Pacific/Gambier',\n  'Pacific/Port_Moresby',\n  'Pacific/Bougainville',\n  'Asia/Manila',\n  'Asia/Karachi',\n  'Europe/Warsaw',\n  'America/Miquelon',\n  'Pacific/Pitcairn',\n  'America/Puerto_Rico',\n  'Asia/Gaza',\n  'Asia/Hebron',\n  'Europe/Lisbon',\n  'Atlantic/Madeira',\n  'Atlantic/Azores',\n  'Pacific/Palau',\n  'America/Asuncion',\n  'Asia/Qatar',\n  'Indian/Reunion',\n  'Europe/Bucharest',\n  'Europe/Belgrade',\n  'Europe/Kaliningrad',\n  'Europe/Moscow',\n  'Europe/Simferopol',\n  'Europe/Kirov',\n  'Europe/Astrakhan',\n  'Europe/Volgograd',\n  'Europe/Saratov',\n  'Europe/Ulyanovsk',\n  'Europe/Samara',\n  'Asia/Yekaterinburg',\n  'Asia/Omsk',\n  'Asia/Novosibirsk',\n  'Asia/Barnaul',\n  'Asia/Tomsk',\n  'Asia/Novokuznetsk',\n  'Asia/Krasnoyarsk',\n  'Asia/Irkutsk',\n  'Asia/Chita',\n  'Asia/Yakutsk',\n  'Asia/Khandyga',\n  'Asia/Vladivostok',\n  'Asia/Ust-Nera',\n  'Asia/Magadan',\n  'Asia/Sakhalin',\n  'Asia/Srednekolymsk',\n  'Asia/Kamchatka',\n  'Asia/Anadyr',\n  'Asia/Riyadh',\n  'Pacific/Guadalcanal',\n  'Indian/Mahe',\n  'Africa/Khartoum',\n  'Europe/Stockholm',\n  'Asia/Singapore',\n  'America/Paramaribo',\n  'Africa/Juba',\n  'Africa/Sao_Tome',\n  'America/El_Salvador',\n  'Asia/Damascus',\n  'America/Grand_Turk',\n  'Africa/Ndjamena',\n  'Indian/Kerguelen',\n  'Asia/Bangkok',\n  'Asia/Dushanbe',\n  'Pacific/Fakaofo',\n  'Asia/Dili',\n  'Asia/Ashgabat',\n  'Africa/Tunis',\n  'Pacific/Tongatapu',\n  'Europe/Istanbul',\n  'America/Port_of_Spain',\n  'Pacific/Funafuti',\n  'Asia/Taipei',\n  'Europe/Kiev',\n  'Europe/Uzhgorod',\n  'Europe/Zaporozhye',\n  'Pacific/Wake',\n  'America/New_York',\n  'America/Detroit',\n  'America/Kentucky/Louisville',\n  'America/Kentucky/Monticello',\n  'America/Indiana/Indianapolis',\n  'America/Indiana/Vincennes',\n  'America/Indiana/Winamac',\n  'America/Indiana/Marengo',\n  'America/Indiana/Petersburg',\n  'America/Indiana/Vevay',\n  'America/Chicago',\n  'America/Indiana/Tell_City',\n  'America/Indiana/Knox',\n  'America/Menominee',\n  'America/North_Dakota/Center',\n  'America/North_Dakota/New_Salem',\n  'America/North_Dakota/Beulah',\n  'America/Denver',\n  'America/Boise',\n  'America/Phoenix',\n  'America/Los_Angeles',\n  'America/Anchorage',\n  'America/Juneau',\n  'America/Sitka',\n  'America/Metlakatla',\n  'America/Yakutat',\n  'America/Nome',\n  'America/Adak',\n  'Pacific/Honolulu',\n  'America/Montevideo',\n  'Asia/Samarkand',\n  'Asia/Tashkent',\n  'America/Caracas',\n  'Asia/Ho_Chi_Minh',\n  'Pacific/Efate',\n  'Pacific/Wallis',\n  'Pacific/Apia',\n  'Africa/Johannesburg'\n];\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 190,
+        "y": 1980,
+        "wires": [
+            [
+                "03adfc778873b29d"
+            ]
+        ]
+    },
+    {
+        "id": "03adfc778873b29d",
+        "type": "ui_dropdown",
+        "z": "2807eb5038af723b",
+        "g": "67a563a3d4b27dd2",
+        "name": "",
+        "label": "",
+        "tooltip": "",
+        "place": "Select timezone",
+        "group": "c166754c88d73fc6",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "multiple": false,
+        "options": [],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 290,
+        "y": 2020,
+        "wires": [
+            [
+                "5072b85543a1f166"
+            ]
+        ]
+    },
+    {
+        "id": "cc8880d237dba1de",
+        "type": "inject",
+        "z": "2807eb5038af723b",
+        "g": "67a563a3d4b27dd2",
+        "name": "",
+        "props": [],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "x": 130,
+        "y": 1940,
+        "wires": [
+            [
+                "72a4115908d159dd"
+            ]
+        ]
+    },
+    {
+        "id": "5072b85543a1f166",
+        "type": "function",
+        "z": "2807eb5038af723b",
+        "g": "67a563a3d4b27dd2",
+        "name": "SaveTemp",
+        "func": "flow.set('temp', msg.payload);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 370,
+        "y": 2060,
+        "wires": [
+            [
+                "ff4f10c92e13dfe1"
+            ]
+        ]
+    },
+    {
+        "id": "ff4f10c92e13dfe1",
+        "type": "ui_button",
+        "z": "2807eb5038af723b",
+        "g": "67a563a3d4b27dd2",
+        "name": "",
+        "group": "c166754c88d73fc6",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": false,
+        "label": "button",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "temp",
+        "payloadType": "flow",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 430,
+        "y": 2100,
+        "wires": [
+            [
+                "140d5f4901347771"
+            ]
+        ]
+    },
+    {
         "id": "35e893befae8d648",
         "type": "ui_group",
-        "name": "Food Feeder",
+        "name": "Feed Machine Statistics",
         "tab": "24ee9924ddace3c7",
         "order": 3,
         "disp": true,
@@ -3062,16 +4317,6 @@
         "className": ""
     },
     {
-        "id": "1654a6d7a221376c",
-        "type": "MySQLdatabase",
-        "name": "",
-        "host": "127.0.0.1",
-        "port": "3306",
-        "db": "tSeriesDB",
-        "tz": "",
-        "charset": "UTF8"
-    },
-    {
         "id": "a2a345f1c4a3679a",
         "type": "tls-config",
         "name": "",
@@ -3088,7 +4333,7 @@
     {
         "id": "1c59b2e42a6a75ab",
         "type": "ui_group",
-        "name": "WaterDispenser",
+        "name": "Statistics",
         "tab": "ca764433f99f8efb",
         "order": 5,
         "disp": true,
@@ -3099,7 +4344,7 @@
     {
         "id": "ad04c2ea2866741d",
         "type": "ui_group",
-        "name": "Food Feeder Controller",
+        "name": "Serve Food",
         "tab": "24ee9924ddace3c7",
         "order": 2,
         "disp": true,
@@ -3154,7 +4399,7 @@
     {
         "id": "ae0ea2451b27327f",
         "type": "ui_group",
-        "name": "Device Selection",
+        "name": "Device Info",
         "tab": "ca764433f99f8efb",
         "order": 2,
         "disp": true,
@@ -3163,9 +4408,20 @@
         "className": ""
     },
     {
+        "id": "93952d2944d4170e",
+        "type": "ui_group",
+        "name": "Device Info",
+        "tab": "24ee9924ddace3c7",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
         "id": "24ee9924ddace3c7",
         "type": "ui_tab",
-        "name": "petification",
+        "name": "Feed Machine",
         "icon": "pets",
         "disabled": false,
         "hidden": false
@@ -3182,7 +4438,7 @@
         "id": "ca764433f99f8efb",
         "type": "ui_tab",
         "name": "Water Supplier",
-        "icon": "dashboard",
+        "icon": "pets",
         "disabled": false,
         "hidden": false
     }
